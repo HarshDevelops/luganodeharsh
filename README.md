@@ -23,4 +23,5 @@ The P2P Chat App is a secure and decentralized chat application built using Hole
 
 ## Contact
 Name: Harsh Srivastava
+
 Reg No: 20BBS0222
